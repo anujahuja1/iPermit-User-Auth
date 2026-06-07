@@ -1,0 +1,14 @@
+{
+  "status": "SUCCESS",
+  "userId": "USER001",
+  "authorityLevel": 1,
+  "authorityName": "Display Only",
+  "permissions": {
+    "canView": true,
+    "canUpdate": false,
+    "canAdd": false,
+    "canEdit": false,
+    "canDelete": false,
+    "canManageUsers": false
+  }
+}
